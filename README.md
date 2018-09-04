@@ -1,6 +1,6 @@
 # Tilix Pop_OS theme
 
-Modified theme for Tilix with the colors from Pop_OS.
+Modified theme for Tilix with the colors from [Pop_OS.](https://system76.com/pop)
 
 To use this theme run:
 
