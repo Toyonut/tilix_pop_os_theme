@@ -1,4 +1,4 @@
-# tilix_pop_os_theme
+# Tilix Pop_OS theme
 
 Modified theme for Tilix with the colors from Pop_OS.
 
