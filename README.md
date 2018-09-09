@@ -2,6 +2,8 @@
 
 Modified theme for Tilix with the colors from [Pop_OS.](https://system76.com/pop)
 
+![alt text](https://github.com/Toyonut/tilix_pop_os_theme/blob/master/tilix_pop_os.png "Pop_Os theme on Tilix")
+
 To use this theme run:
 
 ``` bash
