@@ -1,13 +1,13 @@
 {
-    "background-color": "#333333",
-    "bold-color": "#73C48E",
+    "name": "Pop_OS",
     "comment": "Ported from Pop_OS",
+    "background-color": "#333333",
+    "foreground-color": "#F2F2F2",
+    "bold-color": "#73C48E",
     "cursor-background-color": "#48B9C7",
     "cursor-foreground-color": "#F6F6F6",
-    "foreground-color": "#F2F2F2",
     "highlight-background-color": "#48B9C7",
     "highlight-foreground-color": "#FFFFFF",
-    "name": "Pop_OS",
     "palette": [
         "#333333",
         "#CC0000",
@@ -26,8 +26,8 @@
         "#34E2E2",
         "#EEEEEC"
     ],
-    "use-bold-color": true,
-    "use-cursor-color": true,
-    "use-highlight-color": true,
+    "use-bold-color": false,
+    "use-cursor-color": false,
+    "use-highlight-color": false,
     "use-theme-colors": false
 }
